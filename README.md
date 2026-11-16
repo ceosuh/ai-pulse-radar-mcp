@@ -50,7 +50,7 @@ Every item includes a pre-formatted `aiSummaryContext` field so your LLM can imm
         "-y",
         "@apify/actors-mcp-server",
         "--actors",
-        "YOUR_USERNAME/ceosuh"
+        "ceosuh/global-news-community-pulse-mcp"
       ],
       "env": {
         "APIFY_TOKEN": "your-apify-api-token"
