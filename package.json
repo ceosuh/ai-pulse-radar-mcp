@@ -1,0 +1,14 @@
+{
+  "name": "ai-pulse-radar-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for real-time Google News, Reddit, and Hacker News aggregation via Apify.",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "ai-pulse-radar-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
